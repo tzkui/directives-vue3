@@ -1,0 +1,11 @@
+{
+  "name": "directives-vue3",
+  "version": "1.0.1",
+  "description": "vue3常用自定义指令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
