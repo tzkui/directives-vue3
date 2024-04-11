@@ -90,7 +90,7 @@ const drapOptions = ref({
 }
 </style>
 ```
-该指令接收一个对象作为参数，分别是
+该指令接收一个对象作为参数，对象的可选项分别是
 * x: 元素的style的left值
 * y: 元素的style的top值
 * targetRef: 可拖拽处的元素的ref
