@@ -104,7 +104,7 @@ targetRef 和 targetId选其中一个就可以，也可以不传，不传默认�
   <div><input type="text" v-focus></div>
 </template>
 ```
-### 5.出现省略号: ellipsis
+### 5.文本显示省略号: ellipsis
 ```html
 <template>
   <div v-ellipsis:3 style="width: 200px;">这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字这是测试文字</div>
