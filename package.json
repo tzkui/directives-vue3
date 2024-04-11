@@ -1,6 +1,6 @@
 {
   "name": "directives-vue3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue3常用自定义指令",
   "main": "index.js",
   "scripts": {
