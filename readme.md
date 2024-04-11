@@ -42,7 +42,7 @@ const clickFun = () => {
   <div v-debounce:500="clickFun">点击防抖函数</div>
 </template>
 ```
-其中的500是限制的时间，单位为毫秒
+其中的500是限制的时间，单位为毫秒,可不传，默认为500
 ### 2.节流函数: throttle
 使用方式：
 ```html
@@ -52,10 +52,10 @@ const clickFun = () => {
 }
 </script>
 <template>
-  <div v-debounce:500="clickFun">点击节流函数</div>
+  <div v-throttle:500="clickFun">点击节流函数</div>
 </template>
 ```
-其中的500是限制的时间，单位为毫秒
+其中的500是限制的时间，单位为毫秒,可不传，默认为500
 ### 3.拖拽: drag
 使用方式：
 ```html
