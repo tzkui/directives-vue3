@@ -31,7 +31,7 @@ const drag = {
       }
     };
     dom.addEventListener("mousedown", onDragStart);
-    dom.addEventListener("mouseup", onDragEnd);
+    window.addEventListener("mouseup", onDragEnd);
   },
 };
 
